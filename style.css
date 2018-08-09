@@ -1,7 +1,7 @@
 body {
   height:100vh;
   display: flex;
-  background: no-repeat center/100% url("/images/cover2.jpg");
+  background: no-repeat center/100% url("cover2.jpg");
   background: cover;
   background-size: cover;
   background-position: center;
